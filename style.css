@@ -22,3 +22,9 @@ footer a {
 footer a:hover {
     color: var(--cor-destaque);
 }
+
+.project-img {
+    width: 100%;
+    height: 200px; /* Ajuste o valor conforme necessário */
+    object-fit: cover;
+}
